@@ -3,6 +3,7 @@
 **Domain** : Human Resources (HR)
 
 **Objective**
+
 To analyze salary patterns across:
 - Different companies
 - Various job roles
@@ -11,9 +12,11 @@ To analyze salary patterns across:
 - Geographical locations
 
 **Business Problem Statement**
+
 Companies need to analyze real-world salary data across roles, employment types, and locations to design fair, competitive compensation strategies that attract and retain talent.
 
 **Dataset**
+
 - **Size**: 22,000+ records
 - **Attributes**: 8 key features
 - **Use Cases**:
@@ -23,10 +26,12 @@ Companies need to analyze real-world salary data across roles, employment types,
    - Business insights generation using Python
 
 **Tools Used**
+
 - Language: Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 **Visualizations**
+
 The project includes clear and interactive visualizations to highlight: 
 - Salary Distribution
 - Company Rating v/s Salary
